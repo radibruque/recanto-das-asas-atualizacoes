@@ -1,0 +1,22 @@
+name: Publicar instaladores
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reunir e conferir instaladores
+        shell: bash
+        run: |
+          cd atualizacao-1.0.1
+          cat Recanto-das-Asas-1.0.1-Windows.exe.part* > Recanto-das-Asas-1.0.1-Windows.exe
+          cat Recanto-das-Asas-1.0.1-Android.apk.part* > Recanto-das-Asas-1.0.1-Android.apk
+          sha256sum -c SHA256SUMS.txt
+      - name: Anexar pacotes completos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload v1.0.1 atualizacao-1.0.1/Recanto-das-Asas-1.0.1-Windows.exe atualizacao-1.0.1/Recanto-das-Asas-1.0.1-Android.apk atualizacao-1.0.1/SHA256SUMS.txt --clobber
