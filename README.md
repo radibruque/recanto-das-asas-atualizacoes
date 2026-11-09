@@ -1,18 +1,18 @@
 # Recanto das Asas
 
-Central de downloads para Android e Windows. **Versão atual: 1.0.1.**
+Central de downloads para Android e Windows. **Versão atual: 1.0.2.**
 
 | Quero… | Acesso |
 | --- | --- |
-| Baixar para Windows | [Instalador 1.0.1](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.1/Recanto-das-Asas-1.0.1-Windows.exe) |
-| Baixar para Android | [APK 1.0.1](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.1/Recanto-das-Asas-1.0.1-Android.apk) |
+| Baixar para Windows | [Instalador 1.0.2](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.2/Recanto-das-Asas-1.0.2-Windows.exe) |
+| Baixar para Android | [APK 1.0.2](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.2/Recanto-das-Asas-1.0.2-Android.apk) |
 | Consultar todas as versões | [Catálogo de versões](VERSOES.md) |
-| Ver novidades e conferir arquivos | [Lançamento 1.0.1](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.1) |
+| Ver novidades e conferir arquivos | [Lançamento 1.0.2](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.2) |
 | Encontrar futuros lançamentos | [Versão mais recente](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/latest) |
 
-## Versão 1.0.1
+## Versão 1.0.2
 
-Primeira versão com o atualizador integrado. A primeira instalação é manual; as próximas atualizações podem ser consultadas em **Sistema → Atualizações**. Windows prepara a instalação para a próxima inicialização; Android solicita confirmação pelo instalador do sistema.
+Atualização de teste: sem mudanças de conteúdo ou funções, somente identificação de versão para validar o atualizador. A primeira instalação é manual; as próximas atualizações podem ser consultadas em **Sistema → Atualizações**. Windows prepara a instalação para a próxima inicialização; Android solicita confirmação pelo instalador do sistema.
 
 Os arquivos da Release são completos: não precisam ser reunidos a partir de partes. Baixe o `.exe` no Windows ou o `.apk` no Android; o ZIP de código gerado pelo GitHub não é o instalador.
 

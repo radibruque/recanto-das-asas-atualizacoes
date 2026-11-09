@@ -6,11 +6,14 @@
 
 | Versão | Windows | Android | Novidades e integridade |
 | --- | --- | --- | --- |
-| **1.0.1** | [Baixar EXE](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.1/Recanto-das-Asas-1.0.1-Windows.exe) | [Baixar APK](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.1/Recanto-das-Asas-1.0.1-Android.apk) | [Release](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.1) |
+| **1.0.2** | [Baixar EXE](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.2/Recanto-das-Asas-1.0.2-Windows.exe) | [Baixar APK](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.2/Recanto-das-Asas-1.0.2-Android.apk) | [Release](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.2) |
 
-A 1.0.1 inclui o atualizador integrado. Os dois instaladores são arquivos completos, sem scripts para reunir partes.
+A 1.0.2 é uma atualização de teste, sem mudanças de conteúdo ou funções. Os dois instaladores são arquivos completos, sem scripts para reunir partes.
 
 ## Versões anteriores
+
+- **1.0.1 (pública):** [Release e instaladores completos](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.1). Primeira versão com atualizador integrado.
+
 
 Os arquivos históricos continuam em seus locais originais no repositório **privado** `recanto-das-asas`. Os links abaixo exigem uma conta GitHub com acesso a ele; não tornam os arquivos ou o código públicos. As variantes original e design são entregas distintas.
 
