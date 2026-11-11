@@ -4,9 +4,11 @@
 
 ## Atual
 
-**1.0.4:** [Windows](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.4/Recanto-das-Asas-1.0.4-Windows.exe) · [Android](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.4/Recanto-das-Asas-1.0.4-Android.apk) · [Novidades](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.4)
+**1.0.5:** [Windows](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.5/Recanto-das-Asas-1.0.5-Windows.exe) · [Android](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.5/Recanto-das-Asas-1.0.5-Android.apk) · [Novidades](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.5)
 
 ## Versões anteriores
+
+- **1.0.4:** [Release anterior](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.4). Ficha compacta, atalhos da logo e correção do atualizador Windows.
 
 - **1.0.3:** [Release anterior](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.3). Teste do atualizador e indicador de conexão.
 
