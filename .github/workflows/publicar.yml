@@ -9,18 +9,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Reunir e conferir instaladores
-        shell: bash
         run: |
-          cd atualizacao-1.0.4
-          cat Recanto-das-Asas-1.0.4-Windows.exe.part* > Recanto-das-Asas-1.0.4-Windows.exe
-          cat Recanto-das-Asas-1.0.4-Android.apk.part* > Recanto-das-Asas-1.0.4-Android.apk
+          cd atualizacao-1.0.6
+          cat Recanto-das-Asas-1.0.6-Windows.exe.part* > Recanto-das-Asas-1.0.6-Windows.exe
+          cat Recanto-das-Asas-1.0.6-Android.apk.part* > Recanto-das-Asas-1.0.6-Android.apk
           sha256sum -c SHA256SUMS.txt
       - name: Anexar pacotes completos
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          gh release upload v1.0.4 atualizacao-1.0.4/Recanto-das-Asas-1.0.4-Windows.exe atualizacao-1.0.4/Recanto-das-Asas-1.0.4-Android.apk atualizacao-1.0.4/SHA256SUMS.txt
+        run: gh release upload v1.0.6 atualizacao-1.0.6/Recanto-das-Asas-1.0.6-Windows.exe atualizacao-1.0.6/Recanto-das-Asas-1.0.6-Android.apk atualizacao-1.0.6/SHA256SUMS.txt
       - name: Disponibilizar release verificada
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release edit v1.0.4 --draft=false --latest
+        run: gh release edit v1.0.6 --draft=false --latest

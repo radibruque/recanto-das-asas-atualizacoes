@@ -1,0 +1,2 @@
+b2cd7ec1a667c28e8ab2e880dbbfd8b6361d02d1666c3674109cfb48c9006598  Recanto-das-Asas-1.0.6-Windows.exe
+361f2bc73ff6cdb6c840e018b5066482f6394d730bdaba4e54575a164f9fa3b8  Recanto-das-Asas-1.0.6-Android.apk
