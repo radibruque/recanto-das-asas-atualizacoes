@@ -1,23 +1,17 @@
 # Recanto das Asas
 
-Central de downloads para Windows e Android. **Versão atual: 1.0.6.**
+Central de downloads para Windows e Android. **Versão atual: 1.0.7.**
 
-- [Windows — instalador 1.0.6](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.6/Recanto-das-Asas-1.0.6-Windows.exe)
-- [Android — APK 1.0.6](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.6/Recanto-das-Asas-1.0.6-Android.apk)
-- [Novidades e integridade](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.6)
+- [Windows — instalador 1.0.7](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.7/Recanto-das-Asas-1.0.7-Windows.exe)
+- [Android — APK 1.0.7](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/download/v1.0.7/Recanto-das-Asas-1.0.7-Android.apk)
+- [Novidades e integridade](https://github.com/radibruque/recanto-das-asas-atualizacoes/releases/tag/v1.0.7)
 - [Todas as versões](VERSOES.md)
 
-## Recanto das Asas 1.0.6
+## Recanto das Asas 1.0.7
 
-- Mutações das espécies padrão completadas nas bases antigas sem apagar personalizações; Ring-neck e nomes alternativos reconhecidos.
-- Menu Android acompanha o arraste e possui alça fina semitransparente na borda esquerda.
-- Preferências das configurações, avisos, site e atualizações são confirmadas por Salvar; Critérios mantém salvamento de cada cadastro.
-- Endereço do site aceita domínio sem protocolo; publicação usa o endereço salvo.
-- Gravações e backups com menos bloqueios, mantendo integridade e proteção da sincronização.
-- Correção da tela em branco durante atualização das preferências de avisos.
-- Windows e Android usam as mesmas telas da prévia; ícone e assinatura Android preservados.
+- Salvar agora é um botão circular só com ícone, sem faixa sobre a tela.
+- Versão exibida e comparação de atualizações usam a mesma versão do instalador, corrigindo a indicação antiga no Windows e Android.
+- Empacotamento recusa informações de versão divergentes.
+- Tela inicial compartilhada corrigida para evitar conflito na prévia.
 
-**Antes de atualizar:** faça backup e guarde a senha/chave. Não desinstale nem limpe dados.
-**Windows:** atualize pelo aplicativo ou instale sobre o mesmo diretório em uso. Versões 1.0.3 ou anteriores com helper antigo exigem instalação manual. A atualização física precisa de confirmação no aparelho.
-**Android:** assinatura preservada; confirme a atualização pelo sistema. Se pedir desinstalação, interrompa.
-Instalador Windows sem assinatura comercial. Arquivos completos e SHA256SUMS.txt na Release; o ZIP de código não é instalador.
+Faça backup antes de atualizar. Instale sobre a versão atual, sem desinstalar. Assinatura Android preservada; Windows pode mostrar aviso de origem. Instalação física não verificada.
